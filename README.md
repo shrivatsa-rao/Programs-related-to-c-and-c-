@@ -3,3 +3,4 @@
 # 2.c program to check given input is character or symbol or digit
 # 3.c program to check given number is float or integer
 # 4. c program to count trailing zeros in factorial
+# 5. c program to count number of one's from 1 to N
